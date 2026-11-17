@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Abdul Wahab Rehan — Portfolio
 
 A responsive, futuristic React + Tailwind CSS portfolio built with Vite.
@@ -29,3 +30,6 @@ Project and hero images are loaded from Unsplash. Replace image URLs in `src/App
 2. Push this project to the repository.
 3. In GitHub, open **Settings → Pages** and choose **GitHub Actions**.
 4. For a simple Vite Pages deployment, add a workflow or use the `gh-pages` package. If using a repository path, set Vite `base` to `'/awr-portfolio/'` in `vite.config.js` before building.
+=======
+# awr-futuristic-portfolio
+>>>>>>> 2f85908f4c50c2d6687c8198510bd168782348c9
