@@ -57,7 +57,7 @@ function App(){
 
   {/* Download CV */}
   <a
-    href="/awr44.pdf"
+    href="awr44.pdf"
     download="Abdul_Wahab_Rehan_CV.pdf"
     className="inline-flex items-center gap-2 rounded-full border border-cyan-300/40 px-6 py-3.5 text-sm font-semibold text-cyan-200 transition hover:bg-cyan-300 hover:text-slate-950"
   >
