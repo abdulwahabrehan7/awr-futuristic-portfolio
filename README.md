@@ -1,35 +1,23 @@
-<<<<<<< HEAD
-# Abdul Wahab Rehan — Portfolio
+# AWR Futuristic Portfolio
 
-A responsive, futuristic React + Tailwind CSS portfolio built with Vite.
+A responsive personal portfolio website built with a sleek, modern interface to showcase web projects, technical skills, and contact information.
 
-## Run locally
-1. Install Node.js (LTS).
-2. Open this folder in VS Code.
-3. Open Terminal and run:
+## Features
+
+- **Modern Interface:** Clean, futuristic visual layout with smooth navigation across sections.
+- **Project Showcase:** Highlights featured web applications with descriptions and direct links.
+- **Responsive Design:** Adapts cleanly across desktop, tablet, and mobile screens.
+- **Contact & Social Links:** Quick access to GitHub, LinkedIn, and direct contact options.
+
+## Built With
+
+- **ReactJS**
+- **HTML**
+- **Tailwind CSS**
+- **JavaScript**
+
+## Getting Started
+
+1. Clone the repository:
    ```bash
-   npm install
-   npm run dev
-   ```
-4. Open the local URL printed by Vite.
-
-## Build
-```bash
-npm run build
-npm run preview
-```
-
-## Contact form
-The contact form currently uses `mailto:` and opens the visitor's default email app with the message prefilled. For a true on-page submission, connect Formspree, EmailJS, or your own backend and replace the `submit` handler in `src/App.jsx`.
-
-## Images
-Project and hero images are loaded from Unsplash. Replace image URLs in `src/App.jsx` with your own project screenshots for the strongest recruiter presentation.
-
-## Deploy to GitHub Pages
-1. Create a GitHub repository, e.g. `awr-portfolio`.
-2. Push this project to the repository.
-3. In GitHub, open **Settings → Pages** and choose **GitHub Actions**.
-4. For a simple Vite Pages deployment, add a workflow or use the `gh-pages` package. If using a repository path, set Vite `base` to `'/awr-portfolio/'` in `vite.config.js` before building.
-=======
-# awr-futuristic-portfolio
->>>>>>> 2f85908f4c50c2d6687c8198510bd168782348c9
+   git clone [https://github.com/abdulwahabrehan7/awr-futuristic-portfolio.git](https://github.com/abdulwahabrehan7/awr-futuristic-portfolio.git)
